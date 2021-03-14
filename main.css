@@ -1,0 +1,61 @@
+body {
+    background-color: #ffcc99;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+  }
+img.center {
+  display: block;
+  margin: 0 auto;
+}
+hr {
+  margin-left: 200px;
+  margin-right: 200px; 
+}
+li {
+  display: inline;
+  padding-right: 50px;  
+}
+a:hover, a:visited, a:link, a:active{
+  text-decoration: none;
+}
+a:visited, a:link, a:active {
+  color: black;
+}
+a:active {
+  color: #bfbfbf;
+}
+a:hover {
+  opacity: 0.5;
+}
+h1 {
+  color:#ff6600;
+  text-align: center;
+
+}
+h2 {
+  color:#ff8000;
+}
+h3{
+  text-align: center;
+}
+h4{
+  color:#ff9100;
+}
+h5 {
+  text-align: center;
+}
+.fa-instagram {
+  color: #cd486b;
+  font-size: 25px;
+}
+.fa-facebook-square {
+  color: 	#3b5998;
+  font-size: 25px;
+}
+.fa-instagram:hover {
+  opacity: 0.5;
+}
+.fa-facebook-square:hover {
+  opacity: 0.5;
+}

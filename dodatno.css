@@ -1,0 +1,22 @@
+#omotac {
+    text-align: justify;
+    font-size: medium;
+    margin-left: 200px;
+    margin-right: 200px;
+    
+}
+.image img {
+    display: inline-block;
+    height: auto;
+    width: auto;
+    border: 1px solid #ccc;
+    margin: 10px;
+}
+h3 {
+    font-size: medium;
+    margin-right: 65px;
+}
+input {
+    text-align:center;
+    margin-right: 10px;
+}
